@@ -1,11 +1,11 @@
 # Linux Plus
 
-Why should powerful mean complicated? **Linux Plus** is a fully unified, open-source operating system designed to bring the freedom of Linux to everyone. 
+Why should powerful mean complicated? **Linux Plus** is an open-source operating system designed to bring the freedom of Linux to everyone. 
 
 No fragmentation. No endless configurations. Just pure performance.
 
 ##  What makes it "Plus"?
-*   **The Unified Package:** A complete suite of essential tools ready from the first boot.
+*   **Made For users and made by users** 
 *   **The Everyday use design:** You can use it as a daily driver without any issues and no bloating for the long run.
 **=========================================================================**
 * Coming Soon ... 
