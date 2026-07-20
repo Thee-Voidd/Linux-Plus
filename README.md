@@ -1,4 +1,4 @@
-# 🐧 Linux Plus
+# Linux Plus
 
 Why should powerful mean complicated? **Linux Plus** is a fully unified, open-source operating system designed to bring the freedom of Linux to everyone. 
 
