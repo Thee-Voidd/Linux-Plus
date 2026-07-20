@@ -5,10 +5,8 @@ Why should powerful mean complicated? **Linux Plus** is a fully unified, open-so
 No fragmentation. No endless configurations. Just pure performance.
 
 ##  What makes it "Plus"?
-*   **Plus Browser:** Our own custom-tailored web browser built for speed, privacy, and seamless OS integration.
-*   **Plus Download Manager:** A built-in, lightning-fast download accelerator designed to handle heavy files with ease.
-*   **Plus App Manager:** A unified, one-click app store to discover, install, and manage all your open-source software effortlessly.
 *   **The Unified Package:** A complete suite of essential tools ready from the first boot.
+*   **The Everyday use design:** You can use it as a daily driver without any issues and no bloating for the long run.
 **=========================================================================**
 * Coming Soon ... 
 * Made By , Mohamed Khaled
